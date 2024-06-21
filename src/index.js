@@ -13,5 +13,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </PlayerContextProvider>
    
     </HashRouter>
-  </React.StrictMode>,
+  </React.StrictMode>
 )
